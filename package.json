@@ -1,0 +1,14 @@
+{
+  "name": "xuatxu-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx netlify-cli dev"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "@netlify/blobs": "^10.0.0"
+  },
+  "devDependencies": {}
+}
